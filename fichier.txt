@@ -1,4 +1,8 @@
 tyguhij gyuhjj
 modif 1
 another mod
+<<<<<<< HEAD
 guyhinjok,l ytgubhjnk ytgujhkl
+=======
+modif 2 
+>>>>>>> origin/main
