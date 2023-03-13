@@ -1,4 +1,12 @@
 tyguhij gyuhjj
 modif 1
 another mod
+<<<<<<< HEAD
 modification 3
+=======
+<<<<<<< HEAD
+guyhinjok,l ytgubhjnk ytgujhkl
+=======
+modif 2 
+>>>>>>> origin/main
+>>>>>>> 47d3fb1493b37c25cf04052c2ea2b0b9799fc9cd
